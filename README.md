@@ -1,5 +1,5 @@
 # PowerBIproject
-
+More information can be found it here: https://jairofortunato.notion.site/Power-BI-Project-Super-Store-Dashboard-9ded1f6da8a74a66a3c365fe0072061a
 
 # Prepare and process data
 
@@ -79,7 +79,9 @@ For Profit Margin was created this column:
 Profit Margin = ROUND(([Profit] / [Sales]) * 100,2) / 100
 ```
 
-# Visual graphics
+### Visual graphics
 [samplesuperstoredashboard.pdf](https://github.com/jairofortunato/PowerBIproject/files/10360815/samplesuperstoredashboard.pdf)
+![superstore print](https://user-images.githubusercontent.com/71857060/211035365-8fb6b9ac-dbaf-4a95-a7e0-9678b7cc08f3.png)
 
+![superstore print2](https://user-images.githubusercontent.com/71857060/211035398-4cc7d506-0ca3-4e27-bc43-e8a652d65436.png)
 
