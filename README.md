@@ -1,4 +1,4 @@
-# PowerBIproject
+# PowerBIproject - Super Store Dashboard
 More information can be found it here: https://jairofortunato.notion.site/Power-BI-Project-Super-Store-Dashboard-9ded1f6da8a74a66a3c365fe0072061a
 
 # Prepare and process data
