@@ -79,7 +79,7 @@ For Profit Margin was created this column:
 Profit Margin = ROUND(([Profit] / [Sales]) * 100,2) / 100
 ```
 
-### Visual graphics
+# Visual graphics
 [samplesuperstoredashboard.pdf](https://github.com/jairofortunato/PowerBIproject/files/10360815/samplesuperstoredashboard.pdf)
 ![superstore print](https://user-images.githubusercontent.com/71857060/211035365-8fb6b9ac-dbaf-4a95-a7e0-9678b7cc08f3.png)
 
